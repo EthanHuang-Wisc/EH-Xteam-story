@@ -1,2 +1,2 @@
 # EH-Xteam-story
-I am Ethan
+Xteam homework2
